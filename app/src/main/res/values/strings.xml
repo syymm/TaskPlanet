@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskPlanet</string>
+    <string name="my_tasks">私のタスク</string>
+    <string name="add_new_task">新しいタスクを追加</string>
+    <string name="task_title">タスクタイトル</string>
+    <string name="task_description">タスクの説明</string>
+    <string name="task_description_optional">タスクの説明（オプション）</string>
+    <string name="cancel">キャンセル</string>
+    <string name="add">追加</string>
+    <string name="add_task_button">タスク追加ボタン</string>
+</resources>
