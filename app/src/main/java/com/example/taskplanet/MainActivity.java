@@ -41,9 +41,13 @@ public class MainActivity extends AppCompatActivity implements TodoAdapter.OnTod
             return insets;
         });
 
+        // 初始化视图组件
         initViews();
+        // 初始化ViewModel
         initViewModel();
+        // 设置RecyclerView
         setupRecyclerView();
+        // 设置监听器
         setupListeners();
     }
 
